@@ -1,0 +1,11 @@
+let keySelect;
+let offsetSlider;
+let spacingSlider;
+let noteSlider;
+let notesCorrect = 0;
+let notesCorrectText;
+let noteCount = 0;
+let noteCountText;
+let scoreText;
+let timerText;
+let noteColor;
